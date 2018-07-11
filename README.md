@@ -1,2 +1,2 @@
-# FossilTrainingGit
+# TrainingGit
 Contains all training practices
